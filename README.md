@@ -1,2 +1,9 @@
 # AST_project_MVA
-Repository for the AST project on a comparison of SARIMA and SARIMAX performances on a task
+
+This is a report for the Time Series project of the MVA course. The objective of the
+project is to provide the key concepts in order to follow our presentation during the
+student seminar of the Times Series course. We will explain the key concepts of
+the article [1], the different steps of our implementations and explain the way we
+tried to contest the conclusions of the article. We will show that the method Durka
+used to prove that ARIMA is better than ARIMAX is flawed, and provide another
+comparison of the two methods. The code can be found on github at this link [2]
