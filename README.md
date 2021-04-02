@@ -11,4 +11,5 @@ comparison of the two methods. The code can be found on github at this link [2]
 
 [1] Pastoreková Silvia Durka Peter. Arima vs. arimax – which approach is better to analyze and ˇ
 forecast macroeconomic time series? volume 2, pages 136–140, 2012.
+
 [2] Antoine Doize Alexand
